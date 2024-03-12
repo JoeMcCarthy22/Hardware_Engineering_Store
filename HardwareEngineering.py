@@ -14,7 +14,7 @@ print("Hello and welcome to the Hardware engineering shop! \n")
 
 # create a while loop to continously prompt the user for a choice
 while True:
-    main_menu_choice = input("---------\n"
+    main_menu_choice = input('-' * 50 + "\n"
                                      "Main Menu\n"
                                      "\n"
                          "Please Choose from the following options:\n"
@@ -70,8 +70,6 @@ while True:
                 f"Hammer: {hammer_quantity} pieces\n"
                 f"Wrench: {wrench_quantity} pieces\n"
                 f"Drill: {drill_quantity} pieces\n"
-                "\n"
-                "---------\n"
                 "\n"
                 f"Your total is £{shopping_cart}\n")
             
