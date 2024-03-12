@@ -10,7 +10,7 @@ wrench_quantity = 0
 drill_quantity = 0
 
 # generate greeting
-print("Hello and welcome to the Hardware engineering shop! \n")
+print("Hello and welcome to the Hardware engineering shop! NEW AND IMPROVED \n")
 
 # create a while loop to continously prompt the user for a choice
 while True:
